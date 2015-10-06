@@ -1,2 +1,2 @@
-language csharp
-solution XarTools.sln
+language: csharp
+solution: solution-name.sln
