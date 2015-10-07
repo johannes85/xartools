@@ -91,6 +91,10 @@ namespace XarViewer
             {
                 mnuToolbarExtract.Enabled = true;
             }
+            else
+            {
+                mnuToolbarExtract.Enabled = false;
+            }
         }
 
         private void mnuOpen_Click(object sender, EventArgs e)
